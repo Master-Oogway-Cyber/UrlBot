@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """   Hello 😍✋,
-⭕️ <a href="https://telegra.ph/file/42df73b91cfcd677230ee.png">This is Url Uploader 1.0 🤖!</a>
+⭕️ <a href="https://telegra.ph/file/77b33f415f925eee22947.jpg">This is Master Uploader 1.0 🤖!</a>
 
 ⭕️ Let's get started..!✅ You can upload files   📁 promptly to Telegram through me😎.
 
@@ -8,9 +8,11 @@ class Translation(object):
 
 /help for more details..
 
-⭕️ Support: <a href="https://t.me/LK9779">My_master</a>
+⭕️ Support: <a href="https://t.me/Prob3tor">My_master</a>
 
-⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/leech99Lk">Leech-LK ⬇️🇱🇰</a> | <a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a>"""
+⭕️ Powered by: <a href="https://t.me/Hub_Channel_Network">Hub Channel Network</a>
+
+⭕️ Follow and Join our channels and groups. \n<a href="https://t.me/twentyadvance20">ᴜɴᴋɴᴏᴡɴ ᴄᴏᴅᴇʀ™</a> | <a href="https://t.me/MovieRev_Instant">⚡️Movie Review Instant⚡️🏷</a> | <a href="https://t.me/slfilms">FilⓂ️s Hub™️〽️</a> | <a href="https://t.me/seriez_hub">𝕊𝕖𝕣𝕚𝕖𝕤 ℍ𝕌𝔹🏷™️〽️</a>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -38,8 +40,8 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: Free User
-Expires on: 31/12/2020"""
-    HELP_USER = """Hai am URL Uploader bot..
+Expires on: 31/12/2025"""
+    HELP_USER = """Hai am Master Uploader bot..
     
 1. Send url (URL🔗|New Name with Extension).
 2. Send Custom Thumbnail 🖼 (Optional).
@@ -49,7 +51,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    File  - Give File without Screenshots
    
-If you experiencing bugs or issues please contact my <a href="https://t.me/LK9779">Master</a>
+If you experiencing bugs or issues please contact my <a href="https://t.me/Prob3tor">Master</a>
 
 --------
 Send /me to know current plan details"""
