@@ -41,7 +41,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free User
 Expires on: 31/12/2025"""
-    HELP_USER = """Hai am Master Uploader bot..
+    HELP_USER = """Hi! I'm Master Uploader Bot..
     
 1. Send url (URL🔗|New Name with Extension).
 2. Send Custom Thumbnail 🖼 (Optional).
